@@ -9,5 +9,10 @@
                         <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/grayscale.svg" alt="Grayscale"/>
                <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/ruler.svg" alt="Lineruler"/>
         
+        
+        
+              <img src="   https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/underline.svg" alt="underline"/>
+        
+     
            If needed I do more ...
 

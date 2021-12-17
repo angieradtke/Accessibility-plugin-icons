@@ -6,7 +6,7 @@
    <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/signspaceincrease.svg" alt="Space words increase"/>
       <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/textdecrease.svg" alt="Text decrease"/>
             <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/textincrease.svg" alt="Text increase"/>
-                        <img src="  https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/grayscale.svg" alt="Text increase"/>
+                        <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/grayscale.svg" alt="Grayscale"/>
           
             
            If needed I do more ...

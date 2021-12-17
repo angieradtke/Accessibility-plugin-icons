@@ -11,7 +11,7 @@
         
         
         
-              <img src="   https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/underline.svg" alt="underline"/>
+              <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/underline.svg" alt="underline"/>
         
      
            If needed I do more ...

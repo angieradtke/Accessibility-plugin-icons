@@ -8,5 +8,7 @@
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/grayscale.svg" alt="Grayscale"/>
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/ruler.svg" alt="Lineruler"/>
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/underline.svg" alt="underline"/>
+<img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/mouse.svg" alt="Mouse"/>
+
 <p> If needed I do more ...</p>
 

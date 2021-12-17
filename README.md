@@ -7,7 +7,7 @@
       <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/textdecrease.svg" alt="Text decrease"/>
             <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/textincrease.svg" alt="Text increase"/>
                         <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/grayscale.svg" alt="Grayscale"/>
-          
-            
+               <img src="    https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/ruler.svg" alt="Lineruler"/>
+        
            If needed I do more ...
 

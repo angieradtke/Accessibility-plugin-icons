@@ -10,6 +10,8 @@
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/underline.svg" alt="underline"/>
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/mouse.svg" alt="Mouse"/>
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/speak.svg" alt="Speak"/>
+<img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/reset.svg" alt="reset"/>
+
 
 <p> If needed I do more ...</p>
 

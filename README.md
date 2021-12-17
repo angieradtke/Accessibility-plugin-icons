@@ -6,12 +6,13 @@
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/textdecrease.svg" alt="Text decrease"/>
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/textincrease.svg" alt="Text increase"/>
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/grayscale.svg" alt="Grayscale"/>
+<img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/grayscale2.svg" alt="Grayscale"/>
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/ruler.svg" alt="Lineruler"/>
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/underline.svg" alt="underline"/>
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/mouse.svg" alt="Mouse"/>
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/speak.svg" alt="Speak"/>
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/reset.svg" alt="reset"/>
-
+<img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/close.svg" alt="close"/>
 
 <p> If needed I do more ...</p>
 

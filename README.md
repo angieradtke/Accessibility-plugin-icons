@@ -13,6 +13,9 @@
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/speak.svg" alt="Speak"/>
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/reset.svg" alt="reset"/>
 <img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/close.svg" alt="close"/>
+<img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/line-height-decrease.svg" alt="Line-height decrease"/>
+<img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/line-height-increase.svg" alt="Line-height increase"/>
+<img src="https://github.com/angieradtke/Accessibility-plugin-icons/blob/main/no-animations.svg" alt="No Animations"/>
 
 <p> If needed I do more ...</p>
 
